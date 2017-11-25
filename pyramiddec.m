@@ -14,7 +14,7 @@ function imgDec = pyramiddec(imgSrc, level)
 %       imgLaplacian = pyramiddec(img,level);
 %
 %   注意: 
-%       - 被分解图像的大小必须是2的n次方
+%       - 被分解图像的大小必须是2的n次幂
 %
 %   编者：HeiMa2017
 %   邮箱：hujie#szangell.com
