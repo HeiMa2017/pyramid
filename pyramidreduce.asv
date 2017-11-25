@@ -8,13 +8,12 @@ function imgNext = pyramidreduce(imgPrev)
 %
 %   注意: 
 %       - 边界处理方式对图像边缘有一定影响，采用对称补边较好
-%       - 程序编码逻辑与底层语言C++基本一致，非常容易转换成
-%         C++程序
+%       - 程序组织采用C++的逻辑，可以直接翻译成C++代码
 %
-%   编者：HeiMa2017
+%   编者：胡杰
 %   版本：v0.0.0
 %   邮箱：hujie#szangell.com
-%   网址：https://github.com/HeiMa2017/pyramid
+%   网址：http://www.szangell.com
 %
 % ================================================
 %   日志：

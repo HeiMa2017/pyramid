@@ -16,14 +16,14 @@ function imgDec = pyramiddec(imgSrc, level)
 %   注意: 
 %       - 被分解图像的大小必须是2的n次方
 %
-%   编者：胡杰
+%   编者：HeiMa2017
 %   邮箱：hujie#szangell.com
-%   网址：http://www.szangell.com/
+%   版本：v0.0.0
+%   网址：https://github.com/HeiMa2017/pyramid
 %
 % ================================================
 %   日志：
 %       2017-11-16：完成
-%       2017-11-17：修改了拉普拉斯金字塔的生成方式
 % ================================================
 %   Copyright (c) 2017 Angell.Co.Ltd. All rights reserved.
 
